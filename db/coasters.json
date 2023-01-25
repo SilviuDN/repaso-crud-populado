@@ -1,0 +1,128 @@
+[
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c31"
+    },
+    "name": "Shambala, aventura en el Himalaya",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 1728,
+    "inversions": 0,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c2b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c32"
+    },
+    "name": "Superman, atracción de acero",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 1120,
+    "inversions": 5,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c2c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c34"
+    },
+    "name": "Oblivion",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 671,
+    "inversions": 0,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c30"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c35"
+    },
+    "name": "Twisted Colossus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 2910,
+    "inversions": 0,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c29"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c36"
+    },
+    "name": "King Dha",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 671,
+    "inversions": 0,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c28"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c37"
+    },
+    "name": "Force One",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 1671,
+    "inversions": 4,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c2f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c38"
+    },
+    "name": "Anaconda Returns",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 1098,
+    "inversions": 0,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c2e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c33"
+    },
+    "name": "Tarántula",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 1090,
+    "inversions": 0,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c2d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60801917b1e1d82644223c39"
+    },
+    "name": "Justice League Adventure",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "length": 1527,
+    "inversions": 10,
+    "active": true,
+    "__v": 0,
+    "park_id": {
+      "$oid": "60801916b1e1d82644223c2a"
+    }
+  }
+]

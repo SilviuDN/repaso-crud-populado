@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c2b"
+  },
+  "name": "Alton Towers UK",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c2c"
+  },
+  "name": "Six Flags Magic Mountain",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c30"
+  },
+  "name": "Magic Land Russia",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c29"
+  },
+  "name": "Parque Warner Madrid",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c28"
+  },
+  "name": "Port Aventura Park",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c2f"
+  },
+  "name": "Six Flags Over Georgia",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c2e"
+  },
+  "name": "Ferrari Land Dubai",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c2d"
+  },
+  "name": "Six Flags Great America",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60801916b1e1d82644223c2a"
+  },
+  "name": "Parque de Atracciones de Madrid",
+  "description": "Lorem Ipsum Dolor Sit Amet",
+  "active": true,
+  "__v": 0
+}]
