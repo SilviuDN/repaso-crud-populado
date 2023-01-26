@@ -7,34 +7,15 @@
   <!-- ***** CREA UNA FICHA DE LISTA POR CADA MONTAÑA RUSA **** -->
 
   <hr>
-  <a href="#" class="btn btn-sm btn-dark">Ver detalles</a>
-  <h4>Nombre de montaña rusa</h4>
-  <p>Descripción de montaña rusa</p>
-  <small><strong>Longitud: </strong> 000m | <strong>Inversiones: </strong> 0 | <strong>Parque: </strong> XXXXXX</small>
+  {{#each coasters}}
+  <a href="/coasters/{{_id}}" class="btn btn-sm btn-dark">Ver detalles</a>
+  <h4><strong>Nombre de montaña rusa: </strong>{{name}}</h4>
+  <figure>
+    <img src="{{image}}" alt="{{description}}">
+  </figure>
+  <p><strong style="font-weight: 700;">Descripción de montaña rusa: </strong>{{description}}</p>
+  <small><strong>Longitud: </strong> {{length}}m | <strong>Inversiones: </strong> {{inversions}} | <strong>Parque: </strong> {{park_id.name}}</small>
   <hr>
-
-  <a href="#" class="btn btn-sm btn-dark">Ver detalles</a>
-  <h4>Nombre de montaña rusa</h4>
-  <p>Descripción de montaña rusa</p>
-  <small><strong>Longitud: </strong> 000m | <strong>Inversiones: </strong> 0 | <strong>Parque: </strong> XXXXXX</small>
-  <hr>
-
-  <a href="#" class="btn btn-sm btn-dark">Ver detalles</a>
-  <h4>Nombre de montaña rusa</h4>
-  <p>Descripción de montaña rusa</p>
-  <small><strong>Longitud: </strong> 000m | <strong>Inversiones: </strong> 0 | <strong>Parque: </strong> XXXXXX</small>
-  <hr>
-
-  <a href="#" class="btn btn-sm btn-dark">Ver detalles</a>
-  <h4>Nombre de montaña rusa</h4>
-  <p>Descripción de montaña rusa</p>
-  <small><strong>Longitud: </strong> 000m | <strong>Inversiones: </strong> 0 | <strong>Parque: </strong> XXXXXX</small>
-  <hr>
-
-  <a href="#" class="btn btn-sm btn-dark">Ver detalles</a>
-  <h4>Nombre de montaña rusa</h4>
-  <p>Descripción de montaña rusa</p>
-  <small><strong>Longitud: </strong> 000m | <strong>Inversiones: </strong> 0 | <strong>Parque: </strong> XXXXXX</small>
-  <hr>
+  {{/each}}
 
 </div>

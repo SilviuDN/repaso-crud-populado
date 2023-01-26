@@ -22,12 +22,24 @@
          <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse" id="navbarParks">
          <ul class="navbar-nav ml-auto">
             <li class="nav-item">
                <a class="nav-link" href="/">Incio</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" href="#" id="navbarParksDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Parks
+               </a>
+               <div class="dropdown-menu" aria-labelledby="navbarParksDropdown">
+                  <a class="dropdown-item" href="/parks">All parks</a>
+                  <a class="dropdown-item" href="/parks/new">New park</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/coasters">All coasters</a>
+                  <a class="dropdown-item" href="/coasters/new">New Coaster</a>
+               </div>
+            </li>
+            {{!-- <li class="nav-item">
                <a class="nav-link" href="/coasters">Montañas rusas</a>
             </li>
             <li class="nav-item">
@@ -38,6 +50,17 @@
             </li>
             <li class="nav-item">
                <a class="nav-link" href="/parks/new">Nuevo parque</a>
+            </li> --}}
+            <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Auth
+               </a>
+               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/signup">Signup</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/login">Login</a>
+                  <a class="dropdown-item" href="/logout">Logout</a>
+               </div>
             </li>
       </div>
    </nav>

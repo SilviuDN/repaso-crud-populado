@@ -6,3 +6,12 @@ body {
 .navbar {
   margin-bottom: 50px; 
 }
+
+.errorMessage{
+  margin-top: 20px; 
+  padding: 5px; 
+  color: white; 
+  background: red; 
+  text-align: center; 
+  font-size: .95em
+}
